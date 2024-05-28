@@ -1,6 +1,6 @@
 version = 1
 
-test_patterns = ["tests/**", "**/*.test.js"]
+test_patterns = ["tests/**", "**/*.test.js", "**/*.test.tsx"]
 
 exclude_patterns = ["examples/**"]
 
